@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800,900,1000,1200&display=swap');
 *
 {
     margin: 0;
@@ -21,7 +21,7 @@ header
     top: 0;
     left: 0;
     width: 100%;
-    padding: 30px 100px;
+    padding: 40px 100px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -55,11 +55,11 @@ header ul li a.active
 }
 .content8x .text
 {
-    max-width: 800px;
+    max-width: 900px;
 }
 .content8x .text h2
 {
-    font-size: 5em;
+    font-size: 4em;
     color: #e4697e;
 }
 .content8x .text p
