@@ -38,7 +38,7 @@ header ul li
 header ul li a
 {
     text-decoration: none;
-    color: rgb(230, 61, 61);
+    color: rgb(250, 96, 96);
     font-weight: 500;
     font-size: 18px;
 }
@@ -82,6 +82,10 @@ header ul li a.active
     font-size: 1.3em;
     font-weight: 400;
     font-style: initial;    
+}
+.content .text p span
+{
+    
 }
 .content8x .text a
 {
