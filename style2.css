@@ -13,7 +13,7 @@
     min-height: 100vh;
     padding: 0 100px;
     display: flex;
-    align-items: center;
+    align-items: left;
 }
 header
 {
@@ -81,11 +81,7 @@ header ul li a.active
     color: #e4697e;
     font-size: 1.3em;
     font-weight: 400;
-    font-style: initial;    
-}
-.content .text p span
-{
-    
+    font-style: initial;        
 }
 .content8x .text a
 {
